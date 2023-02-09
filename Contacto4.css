@@ -1,0 +1,43 @@
+header {
+    background-color: rgb(252, 192, 244) ;
+    height: 70px;
+    width: 145px;
+    overflow: hidden;
+    margin-left: 550px;
+}
+
+
+.contenedor {
+    height: 490px;
+    width: 400px;
+    overflow: hidden;
+    margin: 50px auto;
+    border: 5px solid rgb(252, 192, 244);
+    padding: 5px;
+    background-color: white;
+    
+}
+
+.box-1 { background-color: white;
+    
+    height: 350px;
+    width: 350px;
+    margin: 10px;
+
+}
+
+.Nombre1 {height: 30px; width: 375px;}
+.Correo1 {height: 30px; width: 375px;}
+.Mensaje1 {height: 30px; width: 375px;}
+.Asunto1 {height: 30px; width: 375px;}
+.Enviar1 {background-color: rgb(252, 192, 244); height: 60px; width: 300px; margin-left: 40px;}
+
+body {
+    background-image: url(https://phantom-elmundo.unidadeditorial.es/c2e17ad03c10190925608e4bc62e7745/resize/1200/f/jpg/assets/multimedia/imagenes/2021/09/20/16321284993130.jpg);
+    
+    
+}
+
+footer {
+    background-color:  rgb(252, 192, 244);
+}
